@@ -1,0 +1,54 @@
+Licence d'utilisation sans modification — Badgeuse
+
+Copyright (c) 2026 Hugollbs. Tous droits réservés, sauf les permissions
+accordées ci-dessous.
+
+Cette licence n'est PAS une licence open source (au sens de l'OSI) : le code
+est publié pour être lu et utilisé, pas pour être modifié.
+
+1. PERMISSIONS
+   Toute personne qui obtient une copie de ce logiciel et de sa documentation
+   (le « Logiciel ») est autorisée, gratuitement :
+   a) à lire et étudier le code source ;
+   b) à compiler le Logiciel, à l'installer et à l'utiliser tel quel, pour
+      tout usage, y compris dans une collectivité ou une entreprise ;
+   c) à conserver des copies non modifiées du Logiciel pour cet usage.
+
+2. INTERDICTIONS
+   Sans autorisation écrite préalable de l'auteur, il est interdit :
+   a) de modifier, adapter, traduire ou transformer le Logiciel, en tout ou
+      partie (code source, ressources, documentation) ;
+   b) de créer des œuvres dérivées, ou d'intégrer tout ou partie du code dans
+      un autre logiciel ;
+   c) de distribuer, publier ou mettre à disposition une version modifiée ;
+   d) de vendre, sous-licencier ou louer le Logiciel, ou de le redistribuer
+      sous un autre nom ;
+   e) de retirer ou d'altérer les mentions de copyright et la présente licence.
+
+3. REDISTRIBUTION
+   La redistribution du Logiciel n'est autorisée que sous forme de copie
+   strictement non modifiée, accompagnée de la présente licence, et
+   uniquement dans la mesure où les conditions d'utilisation de la plateforme
+   d'hébergement (par ex. GitHub) la permettent (affichage, fork).
+
+4. MARQUES ET IMAGES
+   Le nom « Mairie d'Exemple-sur-Loire » et le logo présents dans le dépôt
+   sont fictifs et fournis uniquement pour illustrer le Logiciel.
+
+5. ABSENCE DE GARANTIE
+   LE LOGICIEL EST FOURNI « TEL QUEL », SANS GARANTIE D'AUCUNE SORTE, EXPRESSE
+   OU IMPLICITE, Y COMPRIS LES GARANTIES DE QUALITÉ MARCHANDE, D'ADÉQUATION À
+   UN USAGE PARTICULIER ET D'ABSENCE DE CONTREFAÇON. EN AUCUN CAS L'AUTEUR NE
+   POURRA ÊTRE TENU RESPONSABLE D'UNE RÉCLAMATION, D'UN DOMMAGE OU D'UNE AUTRE
+   RESPONSABILITÉ, DÉCOULANT DE L'UTILISATION DU LOGICIEL.
+
+6. RÉSILIATION
+   Toute violation de la présente licence met fin automatiquement aux
+   permissions accordées.
+
+---
+
+English summary (the French text above prevails): you may read, build, install
+and use this software as-is for any purpose. You may NOT modify it, create
+derivative works, or distribute modified versions. Provided "as is", without
+warranty.

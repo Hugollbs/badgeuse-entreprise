@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Icône : la pastille « marguerite » du logo de la mairie, sur fond blanc. -->
+<!-- Pas d'icône monochrome (icônes « thématiques » d'Android 13) : le logo est une image en couleurs,
+     sa version unie serait un carré illisible, et la tablette en kiosque n'affiche pas d'écran d'accueil. -->
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MonochromeLauncherIcon">
+    <background android:drawable="@android:color/white" />
+    <foreground android:drawable="@drawable/ic_launcher_logo" />
+</adaptive-icon>

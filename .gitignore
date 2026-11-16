@@ -1,0 +1,31 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Clé de signature de la mairie et ses mots de passe : jamais dans le dépôt.
+keystore.properties
+*.jks
+*.keystore
+
+# Secrets de signature et artefacts de build : ne jamais publier
+keystore.properties
+*.jks
+*.keystore
+*.apk
+*.aab
+*.idsig
+build/
+.env
+.env.*
