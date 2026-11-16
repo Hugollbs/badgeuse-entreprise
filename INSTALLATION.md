@@ -1,4 +1,4 @@
-# Installation sur la tablette de la mairie
+# Installation sur un appareil Androïd
 
 Procédure pour la personne qui installe (l'installateur), à faire une seule fois, avec la DGS présente pour les mots de passe.
 
